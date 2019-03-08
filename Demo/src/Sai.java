@@ -2,7 +2,7 @@
 public class Sai {
 
 	public static void main(String[] args) {
-		System.out.println("xxxbbxxxxxxxxxxxxx");
+		System.out.println("xxxbb  xxxxxxxxxxxxx");
 	}
 
 }
