@@ -1,4 +1,0 @@
-This is my first git test file.
-i am using git repoi am adding one line
-
-adding ling from net.................
